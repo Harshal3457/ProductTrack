@@ -57,7 +57,6 @@ function App() {
   };
 
   useEffect(() => {
-    // Inline initial fetch to avoid referencing external deps
     const run = async () => {
       setLoading(true);
       try {
