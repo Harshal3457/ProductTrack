@@ -10,6 +10,8 @@
   overflow: hidden;
 }
 
+
+
 .tagline-card::before {
   content: '';
   position: absolute;
